@@ -1,0 +1,8 @@
+{
+  "name": "Nam App",
+  "short_name": "Nam",
+  "start_url": "/nam/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
